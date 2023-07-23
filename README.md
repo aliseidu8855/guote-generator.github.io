@@ -1,0 +1,1 @@
+# guote-generator.github.io
