@@ -9,6 +9,14 @@ body {
   background: #bbc6fa;
 }
 
+.hero-welcome {
+  font-size: 40px;
+  margin-top: 50px;
+  color: #333;
+  text-align: center;
+  position: relative;
+}
+
 .quote-box {
   background: #fff;
   width: 700px;
